@@ -26,3 +26,5 @@ git clone https://github.com/kullanıcı-adınız/fizyoterapi-klinik-yonetim.git
 ```
 ## Katkıda Bulunma
 Geri bildirim ve katkılarınızı bekliyorum! Issue açarak veya pull request göndererek projeye destek olabilirsiniz.
+
+# sistem henüz geliştirme aşamasındadır
